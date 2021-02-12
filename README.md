@@ -6,3 +6,4 @@ I've compiled all of my small front end projects in this list. They have all bee
 * [Price Table](https://codepen.io/solguatelli/pen/XWNKqPx) - Flexbox layout
 * [Photo Gallery](https://codepen.io/solguatelli/pen/LYbZmXK) - Flexbox Layout
 * [Flappy Bird](https://codepen.io/solguatelli/full/wvozaJP) - Vanilla JavaScript
+* [Ping Pong Score Keeper](https://codepen.io/solguatelli/full/qBqROJR) - Vanilla JavaScript and Bulma
