@@ -7,3 +7,4 @@ I've compiled all of my small front end projects in this list.
 * [Photo Gallery](https://codepen.io/solguatelli/pen/LYbZmXK) - Flexbox Layout
 * [Flappy Bird](https://codepen.io/solguatelli/full/wvozaJP) - Vanilla JavaScript
 * [Ping Pong Score Keeper](https://codepen.io/solguatelli/full/qBqROJR) - Vanilla JavaScript and Bulma
+* [A Monthly Budget App](https://codepen.io/solguatelli/full/qBqrBPd) - Vanilla JavaScript
